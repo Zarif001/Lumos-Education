@@ -1,0 +1,70 @@
+@font-face{
+    font-family: 'Exo2-Bold';
+    src: url('../Fonts/Exo2-Bold.ttf');
+}
+@font-face{
+    font-family: 'Gilroy-Bold';
+    src:url('../Fonts/Gilroy-Bold.ttf')
+}
+@font-face{
+    font-family: 'Gilroy-Medium';
+    src:url('../Fonts/Gilroy-Medium.ttf')
+}
+@font-face{
+    font-family: 'Gilroy-Regular';
+    src:url('../Fonts/Gilroy-Regular.ttf')
+}
+@font-face{
+    font-family: 'Lato-Black';
+    src: url('../Fonts/Lato-Black.ttf');
+}
+@font-face{
+    font-family: 'Lato-Regular';
+    src: url('../Fonts/Lato-Regular.ttf');
+}
+@font-face{
+    font-family: 'Lato-Bold';
+    src: url('../Fonts/Lato-Bold.ttf');
+}
+@font-face{
+    font-family: 'Inter-Bold';
+    src: url('../Fonts/Inter-Bold.ttf');
+}
+@font-face{
+    font-family: 'Mulish-Bold';
+    src: url('../Fonts/Mulish-Bold.ttf');
+}
+@font-face{
+    font-family: 'Mulish-Light';
+    src: url('../Fonts/Mulish-Light.ttf');
+}
+@font-face{
+    font-family: 'Font Awesome';
+    src: url('../fontAwesome/fa-light-300.woff2');
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'Font Awesome';
+    src: url('../fontAwesome/fa-regular-400.woff2');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Font Awesome';
+    src: url('../fontAwesome/fa-duotone-900.woff2');
+    font-weight: 900;
+}
+@font-face{
+    font-family: 'Font Awesome';
+    src: url('../fontAwesome/fa-brands-400.woff2');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Font Awesome';
+    src: url('../fontAwesome/fa-solid-900.woff2');
+    font-weight: 900;
+}
+.fa {
+    display: inline-block;
+    font-style: normal;
+    font-family: 'Font Awesome';
+}

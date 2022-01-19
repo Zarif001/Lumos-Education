@@ -1,0 +1,182 @@
+
+@media(max-width:1200px){
+    .header__all-description{
+        font-size: 10px;
+        line-height: 16px;
+    }
+    .header__title{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .header__description{
+        font-size: 20px;
+    line-height: 23px;
+    }
+    .section__about-item{
+        flex-wrap: wrap;
+    }
+    .section__last-button{
+        margin-left: 0;
+    }
+    .section__practice-items{
+      display: block;
+    }
+    .section__practice-btns{
+       grid-template-columns: 1fr;
+    }
+    .main__box{
+        flex-direction: column;
+        align-items: center;
+    }
+    .main__section-item{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section__about{
+        display: block;
+    }
+    .section__last-all{
+        grid-template-columns: 0fr 0fr ;
+    }
+    .section__mara-about{
+        display: block;
+    }
+    .section__about-img{
+        position: static;
+    }
+    .section__mara-img{
+        position: static;
+    }
+}
+@media(max-width:880px){
+    .header__last-img{
+        bottom: 260px;
+    }
+}
+@media(max-width:998px){
+    .header__title{
+        margin-bottom: 0;
+    }
+    .header__last-picture{
+        display: none;
+    }
+    .header__last-img{
+    left: 7px;
+    }
+    .header__about{
+        flex-wrap: wrap;
+    }
+    .header__content-btn{
+        margin-top: 0;
+    }
+    .section__last-button{
+        padding: 0 ;
+        align-items: unset;
+    }
+    .section__button-btn{
+        width:auto;
+        padding: 11px;
+    }
+    .main__box-result{
+        text-align: center;
+    }
+    .main__item-title{
+        width: auto;
+    }
+    .main__section-item{
+        display: block;
+    }
+}
+@media(max-width:770px){
+    .header__picture{
+        margin-bottom: 0;
+    }
+    .marafon__box-describe{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .section__about-list{
+        display: block;
+    }
+    .text_4{
+        margin-bottom: 25px;
+    }
+    .section__practice-title{
+        font-size: 31px;
+    }
+    .section__mara-flex{
+        flex-wrap: wrap;
+    }
+    .section__mara{
+        padding-bottom: 0 ;
+    }
+    .section__last-all{
+        margin-top: 0 ;
+        display: block;
+    }
+    .section__last-button{
+        display: block;
+    }
+}
+@media(max-width:660px){
+    .marafon__items{
+        display: block;
+    }
+    .main__marafon-box{
+        display: block;
+    }
+    .marafon__box-first{
+        margin-bottom: 30px;
+    }
+    .header__title{
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .header__description{
+        margin-top: 10px ;
+    }
+    .header__all-description{
+        margin-bottom: 10px;
+    }
+    .header__last-img{
+        display: none;
+    }
+    .header{
+        height: 135vh;
+    }
+    .header__picture{
+        flex-direction: column;
+    }
+    .header__last-img{
+        padding: 12px 9px;
+    }
+   
+    .main__icon{
+        display: none;
+    }
+    .header__btn-first{
+        margin-right: 0;
+    }
+    .header__last-description{
+        margin-left: 0
+    }
+    .header__content-btn{
+        flex-wrap: wrap;
+    }
+    
+}
+@media(max-width:570px){
+    .header__item-description{
+        font-size: 16px;
+    }
+    .header__last-description{
+        font-size: 13px;
+    }
+    .section__about-describe {
+        font-size: 28px;
+    }
+    
+.section__last{
+        height: 140vh;
+    }
+}
